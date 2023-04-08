@@ -4,7 +4,7 @@
 
 from PIL import Image
 from tqdm import tqdm
-# import pillow_avif
+import pillow_avif
 import os
 
 print("""
